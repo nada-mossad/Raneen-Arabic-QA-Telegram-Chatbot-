@@ -10,16 +10,16 @@ website**, then indexed for semantic retrieval and answer extraction.
 This system provides an intelligent product assistant that answers
 Arabic questions about items listed on **Raneen.com**.\
 It integrates: - FastAPI backend\
-- Haystack QA pipeline\
-- Telegram chatbot\
+- Haystack QA pipeline
+- Telegram chatbot
 - Web-scraped Arabic product dataset
 
 ## Objectives
 
--   Build a natural Arabic conversational QA system\
+-   Build a natural Arabic conversational QA system
 -   Retrieve the best-matching product description using semantic
-    similarity\
--   Extract accurate answers using a transformer reader\
+    similarity
+-   Extract accurate answers using a transformer reader
 -   Provide results via Telegram interface
 
 ## Dataset (Web-Scraped From Raneen)
@@ -38,7 +38,7 @@ Stored in CSV and converted to Haystack Documents.
 
 ### 2. FastAPI Backend
 
--   Hosts `/ask` endpoint\
+-   Hosts `/ask` endpoint
 -   Runs QA inference
 
 ### 3. Haystack QA Pipeline
@@ -63,9 +63,9 @@ Example:
 
 ## Features
 
--   Arabic language support\
--   Real‑time Telegram interaction\
--   Semantic retrieval + transformer reader\
+-   Arabic language support
+-   Real‑time Telegram interaction
+-   Semantic retrieval + transformer reader
 -   Easy to extend
 
 ## Limitations
