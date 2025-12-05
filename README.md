@@ -24,10 +24,7 @@ It integrates: - FastAPI backend\
 
 ## Dataset (Web-Scraped From Raneen)
 
-Dataset scraped from Raneen website: - Arabic product description\
-- Product URL
-
-Stored in CSV and converted to Haystack Documents.
+Dataset scraped from Raneen website stored in CSV and converted to Haystack Documents.
 
 ## System Architecture
 
