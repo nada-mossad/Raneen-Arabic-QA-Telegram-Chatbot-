@@ -31,7 +31,7 @@ Dataset scraped from Raneen website stored in CSV and converted to Haystack Docu
 
 ### 1. Telegram Bot (Frontend)
 
--   Sends user queries to backend\
+-   Sends user queries to backend
 -   Displays answers and product links
 
 ### 2. FastAPI Backend
@@ -68,7 +68,7 @@ Example:
 
 ## Limitations
 
--   In‑memory document store\
--   Local hosting\
+-   In‑memory document store
+-   Local hosting
 -   Minimal error handling
 
