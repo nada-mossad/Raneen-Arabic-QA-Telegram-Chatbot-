@@ -9,7 +9,8 @@ website**, then indexed for semantic retrieval and answer extraction.
 
 This system provides an intelligent product assistant that answers
 Arabic questions about items listed on **Raneen.com**.\
-It integrates: - FastAPI backend
+It integrates: 
+- FastAPI backend
 - Haystack QA pipeline
 - Telegram chatbot
 - Web-scraped Arabic product dataset
